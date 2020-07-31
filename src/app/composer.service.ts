@@ -1,3 +1,10 @@
+/**
+ * Title: composer.service.ts
+ * Author: Professor Krasso
+ * Modified by: Jeff Shepherd
+ * Date: 7/30/2020
+ * Description: composer service
+ */
 import { Injectable } from '@angular/core';
 import { IComposer } from './composer.interface';
 import { Observable } from 'rxjs';
